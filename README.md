@@ -213,7 +213,7 @@ Fresh Graduate Information Systems
 
 💼 LinkedIn: https://www.linkedin.com/in/kgs-m-luthfi-khailani
 
-🌐 Portfolio: https://kgsmuhammadluthfi.vercel.app
+🌐 Portfolio: https://lutfi-portofolio.vercel.app/
 
 ---
 
